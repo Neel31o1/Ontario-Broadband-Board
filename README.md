@@ -26,13 +26,9 @@ The Ontario Broadband Board Project is dedicated to delivering a thorough analys
 
 - **Data-Driven Decision Making:** Our rigorous analysis, complemented by robust data cleaning processes and powerful visualizations, empowers stakeholders with the precise information necessary for strategic decision-making. This contributes to the advancement of equitable education access across Ontario's diverse regions.
 
-## Contribution and Collaboration
-
-We invite contributions from the community to enhance the depth and impact of the Ontario Broadband Board Project. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for details on how to participate.
-
 ## License
 
-This project is licensed under the [Humber College Institute of Technology & Advanced Learning](LICENSE), reflecting our commitment to an open and collaborative approach.
+This project is licensed under the [Humber College Institute of Technology & Advanced Learning]([LICENSE](https://humber.ca/legal-and-risk-management/assets/files/pdfs/policy_academic_pdfs/Copyright%20Policy%20FINAL%202022-1.pdf)), reflecting our commitment to an open and collaborative approach.
 
 ## Contact
 
