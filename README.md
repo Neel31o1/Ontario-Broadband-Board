@@ -23,7 +23,7 @@ The Ontario Broadband Board Project is dedicated to delivering a thorough analys
 
 ## License
 
-This project is licensed under the [[Humber College Institute of Technology & Advanced Learning](https://humber.ca/legal-and-risk-management/assets/files/pdfs/policy_academic_pdfs/Copyright%20Policy%20FINAL%202022-1.pdf)][LICENSE], reflecting our commitment to an open and collaborative approach.
+This project is licensed under the [[Humber College Institute of Technology & Advanced Learning](https://humber.ca/legal-and-risk-management/assets/files/pdfs/policy_academic_pdfs/Copyright%20Policy%20FINAL%202022-1.pdf)], reflecting our commitment to an open and collaborative approach.
 
 ## Contact
 
